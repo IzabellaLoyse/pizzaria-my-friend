@@ -1,0 +1,48 @@
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border-width: 0;
+  white-space: nowrap;
+}
+
+.container {
+  padding: 3.5rem;
+  margin: auto;
+  max-width: 46rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container h2 {
+  opacity: 0.9;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.wrapper-filter {
+  position: relative;
+}
+
+.input-filter {
+  margin-top: 2rem;
+  padding: 1rem 3rem;
+  border-radius: 0.8rem;
+  background-color: #444448;
+  border: 0;
+  width: 100%;
+  color: #ffffff;
+  font-size: 1.6rem;
+}
+
+.wrapper-filter svg {
+  position: absolute;
+  right: 1.2rem;
+  bottom: 1.2rem;
+}

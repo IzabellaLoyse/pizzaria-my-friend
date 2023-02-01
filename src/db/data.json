@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Pizza de Atum",
+    "description": "Queijo, atum, milho, azeitona, cebola, pimentão, oregano, tomate"
+  },
+  {
+    "id": 2,
+    "title": "Pizza de Bacon",
+    "description": "Queijo, bacon, milho, azeitona, cebola, pimentão, oregano, tomate"
+  },
+  {
+    "id": 3,
+    "title": "Pizza de Calabresa",
+    "description": "Queijo, calabresa, milho, azeitona, cebola, pimentão, oregano, tomate"
+  },
+
+  {
+    "id": 4,
+    "title": "Pizza de Frango",
+    "description": "Queijo, frango, milho, azeitona, cebola, pimentão, oregano, tomate"
+  },
+  {
+    "id": 5,
+    "title": "Pizza de Lombo canadense",
+    "description": "Queijo, lombo canadense, milho, azeitona, cebola, pimentão, oregano, tomate"
+  },
+  {
+    "id": 6,
+    "title": "Pizza de Mussarela",
+    "description": "Queijo, milho, azeitona, cebola, pimentão, oregano, tomate"
+  }
+]

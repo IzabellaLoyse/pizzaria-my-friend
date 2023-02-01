@@ -1,0 +1,32 @@
+main {
+  padding-inline: 3.2rem;
+  max-width: 70rem;
+  margin: 3.2rem auto;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.6rem;
+  list-style: none;
+}
+
+ul:has(li:hover) li:not(:hover) {
+  opacity: 0.6;
+  scale: 0.98;
+}
+
+.card {
+  flex: 1;
+  background-color: #444448;
+  padding: 2.8rem;
+  border-radius: 0.8rem;
+  color: #ffffff;
+  transition: all 0.2s;
+}
+
+@media (max-width: 36rem) {
+  .cards {
+    grid-template-columns: 1fr;
+  }
+}

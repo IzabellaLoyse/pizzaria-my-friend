@@ -1,0 +1,16 @@
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.card-header h3 {
+  opacity: 0.9;
+  letter-spacing: 2px;
+  padding: 0.4rem;
+}
+
+.card-wrapper p {
+  margin-top: 1.6rem;
+  margin-left: 0.5rem;
+}
